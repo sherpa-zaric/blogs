@@ -3,3 +3,5 @@ menu:
     Categories: /categories
     Tags: /tags
     About: /about
+article:
+    thumbnail: true
