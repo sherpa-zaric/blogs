@@ -1,4 +1,5 @@
-# Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: icarus
+menu:
+    Archives: /archives
+    Categories: /categories
+    Tags: /tags
+    About: /about
